@@ -95,6 +95,14 @@ icon
 
 The leading icon, rendered before the heading. Overriding it with an empty block removes the icon.
 
+action
+^^^^^^
+
+The action, rendered on the right of the content.
+
+.. image:: /_static/images/symfonycomponents/alert-actions.png
+   :alt: Example with action defined
+
 Variants
 --------
 
